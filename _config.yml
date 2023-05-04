@@ -11,10 +11,10 @@ email: willchanania@gmail.com
 description: Solution Engineering | System Reliability | Application Expertise
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wchanania.github.io/" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
+linkedin_username: will-chanania
 github_username:  wchanania
 paginate: 5
-theme-dark: true #Set to true to change to dark website theme
+theme-dark: false #Set to true to change to dark website theme
 
 plugins: [jekyll-paginate, kramdown]
 # Build settings
