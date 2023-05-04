@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Gravity!"
-date:   2016-03-30 19:45:31 +0530
-categories: jekyll update
+title:  "Clearcover"
+date:   2022-03-13 19:45:31 +0530
 ---
 Gravity is an unopinionated theme for Jekyll, the awesome static site generator.
 
