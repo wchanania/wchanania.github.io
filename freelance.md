@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Download
-permalink: /download/
+title: Freelance
+permalink: /freelance/
 
-tagline: "Loved it? Download Gravity"
+tagline: "Need hardware or software help?"
 ---
 
 <br>
