@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Clearcover"
-date:   2022-03-13 19:45:31 +0530
+date:   2022-03-13 19:45:31 +0530 - Present
 ---
 •	Designed and built Flask web application, leveraging 5 programming languages and 11 API endpoints to automate 13 (ultimately 30) customer support workflows and significantly improve customer experience
 •	Identified a business strategy weakness and presented company policy change, resulting in policy-change adoption and company savings of over $250k
