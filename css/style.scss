@@ -130,7 +130,13 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
 
+p {
+  text-indent: 1em;
+}
 
+p::first-line {
+  text-indent: 0; /* Reset the indentation for the first line */
+}
 
 /**
  * Links
