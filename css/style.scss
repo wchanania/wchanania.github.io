@@ -299,7 +299,7 @@ pre {
 }
 .postContent {
   padding-top: 3.5em;
-  text-align: center;
+  text-align: left;
 }
 .postDate {
   float: left;
@@ -522,6 +522,11 @@ pre {
     font-size: 36px;
   }
 }
+
+.postExt > p {
+  line-break: auto;
+}
+
 .post-content {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
