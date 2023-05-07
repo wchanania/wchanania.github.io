@@ -263,9 +263,8 @@ body.dark {
     color: $d-grey-color;
   }
 
-  .postExt p {
+  .postExt > p {
     text-align: left;
-    
   }
 
   /**
