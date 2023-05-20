@@ -3,7 +3,7 @@ layout: post
 title:  "Clearcover"
 date:   2022-03-13 19:45:31 +0530
 ---
-•	    Designed and built Flask web application, leveraging 5¬ programming languages and 11 API endpoints to automate 13 (end goal: 30) customer support workflows and significantly improve customer experience<br>
+• Designed and built Flask web application, leveraging 5¬ programming languages and 11 API endpoints to automate 13 (end goal: 30) customer support workflows and significantly improve customer experience<br>
 •	    Identified business policy weakness and aligned legal, engineering, product, and operations teams on company policy change, resulting in savings of over $250k annually<br>
 •	    Routinely create SQL queries to identify unprofitable policies, one of which saved the company over $750k in lost premium<br>
 •	    Trained co-workers on Python to upskill product support team and improve overall technical output<br>
