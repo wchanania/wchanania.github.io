@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  {% for post in site.categories.job_posts%}
+  {% for post in page.categories.job_posts%}
   <div class="post postContent">
     <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b, %Y" }}</time>
     </div>
@@ -24,7 +24,7 @@ layout: default
   <div class="education">
     <br>
     <h2>Education</h2>
-    {% for post in site.categories.education_posts %}
+    {% for post in page.categories.education_posts %}
     <div class="post postContent">
       <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b, %Y" }}</time>
       </div>
