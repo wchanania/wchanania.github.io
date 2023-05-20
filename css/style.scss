@@ -743,3 +743,28 @@ div.site-title > #nav-pic {
   display: none;
 }
 
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.image-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.image-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.image-item:hover {
+  transform: scale(1.05);
+}

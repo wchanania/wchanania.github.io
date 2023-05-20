@@ -8,16 +8,28 @@ tagline: "Need hardware or software help?"
 
 
 <center>
-<p>
-My services include full-stack web development, networking support, hardware support, and applicaton support.
-</p>
-<h3>Some of my work</h3>
-<p>Coming Soon!</p>
+  <p>
+    My services include full-stack web development, networking support, hardware support, and application support.
+  </p>
+  <h4>Some of my work</h4>
+  <!-- Image Portfolio Grid -->
+  <div class="image-grid">
+    <div class="image-item">
+      <img src="path/to/image1.jpg" alt="Image 1">
+    </div>
+    <div class="image-item">
+      <img src="path/to/image2.jpg" alt="Image 2">
+    </div>
+    <div class="image-item">
+      <img src="path/to/image3.jpg" alt="Image 3">
+    </div>
+    <!-- Add more image items as needed -->
+  </div>
 </center>
 <div class="contact-form"><br>
-  <h4>
+  <h3>
  Get in Touch
- </h4>
+ </h3>
  <form action="https://api.web3forms.com/submit" method="POST">
   <input type="hidden" name="access_key" value="c98a177c-7fd0-49c7-bc1b-79e72b9a8e01">
   <input type="hidden" name="from_name" value="wchanania.github.io">
