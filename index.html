@@ -45,7 +45,7 @@ layout: default
   <div class="education">
     <br>
     <h2>Education</h2>
-    {% for post in paginator.posts.education_posts%}
+    {% for post in site.categories.education_posts %}
     <div class="post postContent">
       <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b, %Y" }}</time>
       </div>
