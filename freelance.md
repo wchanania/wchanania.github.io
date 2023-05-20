@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Will Chanania
+title: Freelance
 permalink: /freelance/
 
 tagline: "Need hardware or software help?"
