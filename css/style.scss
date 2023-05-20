@@ -743,12 +743,14 @@ div.site-title > #nav-pic {
   display: none;
 }
 
+
 .image-grid {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 60vw; /* Set the width of the grid to 60vw */
+  width: 65vw; /* Set the width of the grid to 65vw */
   margin: 0 auto; /* Center the grid horizontally */
+  margin-left: calc((100vw - 65vw) / 2); /* Offset the grid to the left by half its width */
   margin-top: 20px;
 }
 
