@@ -2,6 +2,7 @@
 layout: post
 title:  "Clearcover"
 date:   2022-03-13 19:45:31 +0530
+categories: job_posts
 ---
 • Designed and built Flask web application, leveraging 5¬ programming languages and 11 API endpoints to automate 13 (end goal: 30) customer support workflows and significantly improve customer experience<br>
 •	    Identified business policy weakness and aligned legal, engineering, product, and operations teams on company policy change, resulting in savings of over $250k annually<br>
