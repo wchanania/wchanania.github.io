@@ -203,7 +203,15 @@ pre {
     }
 }
 
-
+#nav-pic {
+  background-image: url(https://wchanania.github.io//profile_picture.jpg);
+  background-size: 120%;
+  min-height: 100px;
+  min-width: 101px;
+  display: inline-flex;
+  border-radius: 50%;
+  margin-bottom: -22px;
+}
 
 
 /**
@@ -734,12 +742,3 @@ pre {
   display: none;
 }
 
-.nav-pic {
-  background-image: url(https://wchanania.github.io//profile_picture.jpg);
-  background-size: 120%;
-  min-height: 100px;
-  min-width: 101px;
-  display: inline-flex;
-  border-radius: 50%;
-  margin-bottom: -22px;
-}
