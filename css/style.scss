@@ -747,6 +747,8 @@ div.site-title > #nav-pic {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 60vw; /* Set the width of the grid to 60vw */
+  margin: 0 auto; /* Center the grid horizontally */
   margin-top: 20px;
 }
 
@@ -760,10 +762,14 @@ div.site-title > #nav-pic {
 
 .image-item img {
   display: block;
-  width: 100%;
+  width: 800px; /* Increase the width to make the images bigger */
   height: auto;
 }
 
 .image-item:hover {
   transform: scale(1.05);
+}
+
+.contact-form {
+  margin-top: 30px;
 }
