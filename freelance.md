@@ -15,13 +15,16 @@ tagline: "Need hardware or software help?"
   <!-- Image Portfolio Grid -->
   <div class="image-grid">
     <div class="image-item">
-      <img src="path/to/image1.jpg" alt="Image 1">
+      <img src="/img/central_jersey.png" alt="CJ">
     </div>
     <div class="image-item">
-      <img src="path/to/image2.jpg" alt="Image 2">
+      <img src="/img/edenfarmsllc.png" alt="EF">
     </div>
     <div class="image-item">
-      <img src="path/to/image3.jpg" alt="Image 3">
+      <img src="/img/joeb_moore.png" alt="JB">
+    </div>
+    <div class="image-item">
+      <img src="/img/revitalser.png" alt="RV">
     </div>
     <!-- Add more image items as needed -->
   </div>
