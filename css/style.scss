@@ -203,10 +203,7 @@ pre {
     }
 }
 
-.center {
-  display: flex;
-  justify-content: center;
-}
+
 
 
 /**
@@ -229,6 +226,10 @@ pre {
     }
 }
 
+#site-nav {
+  display: flex !important;
+  justify-content: center !important;
+}
 
 
 /**
