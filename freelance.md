@@ -6,11 +6,14 @@ permalink: /freelance/
 tagline: "Need hardware or software help?"
 ---
 
-<p>
+
 <center>
+<p>
 My services include full-stack web development, networking support, hardware support, and applicaton support.
-</center>
 </p>
+<h3>Some of my work</h3>
+<p>Coming Soon!</p>
+</center>
 <div class="contact-form"><br>
   <p>
  Get in Touch
