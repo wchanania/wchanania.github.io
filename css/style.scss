@@ -744,14 +744,13 @@ div.site-title > #nav-pic {
 }
 
 .image-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   margin-top: 20px;
 }
 
 .image-item {
-  position: relative;
   overflow: hidden;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
