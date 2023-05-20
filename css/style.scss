@@ -747,10 +747,8 @@ div.site-title > #nav-pic {
 .image-grid {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  width: 65vw; /* Set the width of the grid to 65vw */
-  margin: 0 auto; /* Center the grid horizontally */
-  margin-left: calc((100vw - 65vw) / 2); /* Offset the grid to the left by half its width */
+  width: 65vw;
+  margin-left: calc((-15vmax) / 2);
   margin-top: 20px;
 }
 
