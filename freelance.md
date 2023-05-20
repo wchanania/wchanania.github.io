@@ -15,9 +15,9 @@ My services include full-stack web development, networking support, hardware sup
 <p>Coming Soon!</p>
 </center>
 <div class="contact-form"><br>
-  <p>
+  <h5>
  Get in Touch
- </p>
+ </h5>
  <form action="https://api.web3forms.com/submit" method="POST">
   <input type="hidden" name="access_key" value="c98a177c-7fd0-49c7-bc1b-79e72b9a8e01">
   <input type="hidden" name="from_name" value="wchanania.github.io">
