@@ -9,8 +9,10 @@ tagline: "Need hardware or software help?"
 
 <center>
   <p>
-    My services include full-stack web development, networking support, hardware support, and application support.
+    My services include full-stack web development, networking support, hardware support, and application support. Let me help you achieve your technological goals!
   </p>
+  <br>
+  <br>
   <h4>Some of my work</h4>
   <!-- Image Portfolio Grid -->
   <div class="image-grid">
