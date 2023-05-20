@@ -747,6 +747,7 @@ div.site-title > #nav-pic {
 .image-grid {
   display: flex;
   justify-content: space-between;
+  width: 65vw;
   margin-left: calc((-15vmax) / 2);
   margin-top: 20px;
 }
@@ -761,12 +762,12 @@ div.site-title > #nav-pic {
 
 .image-item img {
   display: block;
-  width: 900px; /* Increase the width to make the images bigger */
+  width: 800px; /* Increase the width to make the images bigger */
   height: auto;
 }
 
 .image-item:hover {
-  transform: scale(1.35);
+  transform: scale(1.65);
 }
 
 .contact-form {
@@ -777,8 +778,11 @@ div.site-title > #nav-pic {
 @media screen and (max-width: 768px) {
   .image-grid {
     flex-wrap: wrap;
-    width: auto;
     margin-left: 0; /* Reset the left margin for wrapping */
+  }
+
+  .image-item:hover {
+    transform: scale(1.35);
   }
 
   .image-item {
