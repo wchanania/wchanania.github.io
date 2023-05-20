@@ -773,3 +773,15 @@ div.site-title > #nav-pic {
 .contact-form {
   margin-top: 30px;
 }
+
+/* Media query for iPad mini size or smaller */
+@media screen and (max-width: 768px) {
+  .image-grid {
+    flex-wrap: wrap;
+    margin-left: 0; /* Reset the left margin for wrapping */
+  }
+
+  .image-item {
+    margin-bottom: 10px; /* Add spacing between wrapped images */
+  }
+}
