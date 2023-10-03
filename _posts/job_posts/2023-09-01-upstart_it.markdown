@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Upstart IT LLC"
-date:   2022-03-13 19:45:31 +0530
+date:   2023-09-01 19:45:31 +0530
 categories: job_posts
 ---
 • Designed, built, and maintain small-business websites for 4 clients; provide managed IT support for technology stacks
