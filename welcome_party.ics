@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20240729T120000Z
+DTSTART:20250627T200000Z
+DTEND:20250627T220000Z
+SUMMARY:Lizzy and Will's Welcome Party
+DESCRIPTION:Join us for Lizzy and Will's Welcome Party at Bailey's Beach in Newport, RI. \n\nPlease dress in Beach Chic attire
+LOCATION:Bailey's Beach, Newport, RI
+URL:https://maps.app.goo.gl/GZdj49vPeN5RYEWb9
+END:VEVENT
+END:VCALENDAR
