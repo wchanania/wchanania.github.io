@@ -8,13 +8,15 @@
 # Site settings
 title: Will Chanania
 email: willchanania@gmail.com
-description: Solution Engineering | System Reliability | Application Expertise
+description: Customer Success Engineering | Integrations | Automation & AI
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wchanania.github.io/" # the base hostname & protocol for your site
 linkedin_username: will-chanania
 github_username:  wchanania
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
+
+future: true # publish posts dated in the future (e.g. expected graduation)
 
 plugins: [jekyll-paginate, kramdown]
 # Build settings

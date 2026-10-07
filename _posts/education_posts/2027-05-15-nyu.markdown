@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "New York University"
+date:   2027-05-15 19:45:31 +0530
+categories: education_posts
+---
+• Master of Science in <strong>Computer Science</strong>, Concentration in <strong>AI/ML</strong> (Expected 2027)<br>
+• Tandon School of Engineering
